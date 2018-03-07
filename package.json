@@ -9,6 +9,7 @@
   "main": "index.js",
   "author": "Christopher Mühl <christopher@dieschittigs.de>",
   "license": "MIT",
+  "private": false,
   "peerDependencies": {
     "eslint": ">=4.9.0"
   },
